@@ -5,6 +5,7 @@ rocketmqinc/rocketmq
 apache/rocketmq
 pangliang/rocketmq-console-ng
 centos:centos7
+rabbitmq:management
 elasticsearch:8.15.0
 kibana:8.15.0
 #支持私库
