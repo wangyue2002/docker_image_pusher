@@ -9,6 +9,7 @@ rabbitmq:management
 elasticsearch:8.15.0
 postgres:10.9
 kibana:8.15.0
+postgis/postgis:14-3.1-alpine
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
