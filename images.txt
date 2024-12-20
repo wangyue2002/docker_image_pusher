@@ -5,6 +5,7 @@ rocketmqinc/rocketmq
 apache/rocketmq
 pangliang/rocketmq-console-ng
 centos:centos7
+xuxueli/xxl-job-admin:2.4.1
 rabbitmq:management
 elasticsearch:8.15.0
 postgres:10.9
