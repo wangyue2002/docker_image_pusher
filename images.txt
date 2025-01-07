@@ -8,6 +8,7 @@ centos:centos7
 xuxueli/xxl-job-admin:2.4.1
 rabbitmq:management
 elasticsearch:8.15.0
+mysql:8.0
 postgres:10.9
 kibana:8.15.0
 postgis/postgis:14-3.1-alpine
