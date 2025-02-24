@@ -6,6 +6,7 @@ apache/rocketmq
 pangliang/rocketmq-console-ng
 centos:centos7
 xuxueli/xxl-job-admin:2.4.1
+onlyoffice/documentserver:7.3
 rabbitmq:management
 elasticsearch:8.15.0
 mysql:8.0
