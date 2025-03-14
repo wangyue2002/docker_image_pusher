@@ -21,3 +21,4 @@ postgis/postgis:14-3.1-alpine
 prom/prometheus:latest
 grafana/grafana:latest
 prom/node-exporter:latest
+prom/mysqld-exporter:latest
